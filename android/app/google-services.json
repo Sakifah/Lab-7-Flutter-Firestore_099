@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517936009222",
+    "firebase_url": "https://frist-demo-210b0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "frist-demo-210b0",
+    "storage_bucket": "frist-demo-210b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517936009222:android:e871b148d5ef067393b387",
+        "android_client_info": {
+          "package_name": "io.sakifah.dev.firebase_099"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517936009222-p964m87ldji9ilbf1bp3835j1ves5hsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.sakifah.dev.firebase_099",
+            "certificate_hash": "87953ca4e9d25a7d876dc5d33a34e249058d5d68"
+          }
+        },
+        {
+          "client_id": "517936009222-qbji5ar96mlukn1lp27rjgg9ni23osh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAI1OsQEHWshmiyMNEKix7K_l7lbifqwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517936009222-qbji5ar96mlukn1lp27rjgg9ni23osh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
